@@ -1,0 +1,6 @@
+c:\users\jeffreyroiy\documents\visual studio 2013\Projects\TestingCalories\TestingCalories\bin\Debug\TestingCalories.exe.config
+c:\users\jeffreyroiy\documents\visual studio 2013\Projects\TestingCalories\TestingCalories\obj\Debug\TestingCalories.csprojResolveAssemblyReference.cache
+c:\users\jeffreyroiy\documents\visual studio 2013\Projects\TestingCalories\TestingCalories\bin\Debug\TestingCalories.exe
+c:\users\jeffreyroiy\documents\visual studio 2013\Projects\TestingCalories\TestingCalories\bin\Debug\TestingCalories.pdb
+c:\users\jeffreyroiy\documents\visual studio 2013\Projects\TestingCalories\TestingCalories\obj\Debug\TestingCalories.exe
+c:\users\jeffreyroiy\documents\visual studio 2013\Projects\TestingCalories\TestingCalories\obj\Debug\TestingCalories.pdb
